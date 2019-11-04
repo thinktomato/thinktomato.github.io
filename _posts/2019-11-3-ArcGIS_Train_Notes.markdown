@@ -8,7 +8,6 @@ desc: A note about base knowledge of ArcGIS.
 layout: post
 ---
 
-# ArcGIS培训笔记
 自己并没有系统的学习过ArcGis，因此对这款强大的软件的认识很琐碎。这次培训时间只有两个小时，但是很好的帮自己了解到ArcGis的基础体系是如何构建的，现对培训过程进行记录。
 ## ArcGIS的基准-坐标系统
 坐标系统不仅是ArcGis的基准，而是整个GIS的空间基准，这也是我一直以来比较混乱的地方。坐标系统分为两种：
