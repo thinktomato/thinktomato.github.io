@@ -16,10 +16,10 @@ sass:
 permalink: /posts/:title/
 texture:
   title: Think Tomato
-  tagline: Recording. Thinking
+  tagline: The unexamined life is not worth living
   date_format: "%b %-d, %Y"
   style: blue
-  showNav: false
+  showNav: true
   showPicker: false
 
   # generate social links in footer
