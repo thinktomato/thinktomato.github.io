@@ -15,12 +15,12 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
+  title: Think Tomato
+  tagline: Recording. Thinking
   date_format: "%b %-d, %Y"
-  style: black
+  style: blue
   showNav: false
-  showPicker: true
+  showPicker: false
 
   # generate social links in footer
   social_links:
