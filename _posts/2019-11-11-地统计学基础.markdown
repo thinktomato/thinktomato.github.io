@@ -1,5 +1,5 @@
 ---
-title: 地统计学基础
+title: 地统计概论(1)-地统计学基础
 tags:
 - Geostatistics
 - correlation 

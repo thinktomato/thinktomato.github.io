@@ -1,5 +1,5 @@
 ---
-title: 区域变量理论
+title: 地统计概论(2)-区域变量理论
 tags:
 - Geostatistics
 - reginal variable 
