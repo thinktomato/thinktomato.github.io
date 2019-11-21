@@ -11,7 +11,9 @@ layout: post
 
 帮朋友投个稿子，上传稿件需要Flash插件。老夫好久没听说过Flash了，这个上古时期的插件还没作古。鉴于Flash一贯很差的口碑，特别是中国地区Flash插件对隐私信息的收集，特别不想下载这玩意。还好WIN10自带的edge浏览器自带该插件。默认是关闭状态，激活步骤如下
 > a. 在edge高级设置中，将Adobe Flash Player打开
+>  
 > b. 点击上传稿件按钮，弹窗现实Flash已被阻止，点击允许一次
+> 
 > c. 搞定后再次关闭Flash Player
 
 上述步骤参考自[Adobe官网](https://helpx.adobe.com/cn/flash-player/kb/flash-player-issues-windows-10-edge.html)
